@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="img/bibliotheque_nuit_614.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/mondot2.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ## La littérature numérique n'existe pas :<br/> vers la fin de l'indexation littératie/littérarité ?
@@ -58,9 +58,9 @@ Ce que ce congrès a par ailleurs démontré, c'est l'importance de mener une r�
 
 <!-- .slide: class="hover"-->
 
->La légitimation s’invite au rang des questions épineuses, dans le quotidien même des écrivains contemporains. Elle s’impose dans le même temps aux écranvains, fréquemment accusés de privilégier le support Internet, car permettant une autoédition synonyme de désintermédiation, c’est-à-dire de stratégie d’évitement des filtres traditionnels mis en place par la chaîne du livre. Pas une discussion au sujet des blogs qui n’interroge in fine, et parfois avec virulence, la littérarité problématique de leurs contenus.
+><p>La légitimation s’invite au rang des questions épineuses, dans le quotidien même des écrivains contemporains. Elle s’impose dans le même temps aux écranvains, fréquemment accusés de privilégier le support Internet, car permettant une autoédition synonyme de désintermédiation, c’est-à-dire de stratégie d’évitement des filtres traditionnels mis en place par la chaîne du livre. Pas une discussion au sujet des blogs qui n’interroge in fine, et parfois avec virulence, la littérarité problématique de leurs contenus.</p>
 
->Gilles Bonnet
+><p>Gilles Bonnet, *Pour une poétique numérique: littérature et Internet* (2018)</p>
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -87,7 +87,7 @@ Ce phénomène a tendance à se répercuter sur nos propres travaux, dont l’an
 <!-- .slide: data-background-image="img/bibliotheque_nuit_614.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
-### Penser la littérarité numérique
+
 * Quelle sera la validité du patrimoine littéraire numérique dans 50, 100 ans ?
 * Comment la littérature numérique s’institutionnalise-t-elle (et quel rôle jouons-nous dans cette institutionnalisation) ?
 
@@ -107,7 +107,7 @@ Or justement, quels sont les critères retenus dans le domaine émergent de la l
 <!-- .slide: data-background-image="img/defRestreinte.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
-### Le biais technique
+* Penser le "biais" technique
 
 ===
 
@@ -123,14 +123,14 @@ Je voudrais aujourd'hui baliser cette question, non pas tant pour apporter une s
 <!-- .slide: data-background-image="img/defRestreinte.jpg" data-background-size="contain"-->
 
 
-## “Si t’es pas codeur t’es pas auteur” </br> l’ère des écrivains analphabètes ?
+## *“Si t’es pas codeur t’es pas auteur”...* </br> l’ère des écrivains analphabètes ?
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/crouzetAuteurCodeur.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->**"Pour écrire un codex, l’auteur doit produire non seulement du texte et des liens, mais aussi du code informatique, un code qui fait partie intégrante de l’œuvre."** </br> Thierry Crouzet, 2011.
+><p>**"Pour écrire un codex, l’auteur doit produire non seulement du texte et des liens, mais aussi du code informatique, un code qui fait partie intégrante de l’œuvre."**</p><p>Thierry Crouzet, 2011.</p>
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -147,9 +147,9 @@ La formule était volontairement provocatrice, et elle suscitera d’ailleurs de
 <!-- .slide: data-background-image="img/crouzetAuteurCodeur.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->**“On m’a répondu « T’es pas boulanger, t’es pas auteur »”** </br> Thierry Crouzet, 2011.
+><p>**“On m’a répondu </br>«&nbsp;T’es pas boulanger, t’es pas auteur&nbsp;»”**</p><p>Thierry Crouzet, 2011.</p>
 
-<!-- .element: style="font-size:1.6rem" -->
+<!-- .element: style="font-size:1.8rem" -->
 
 ===
 
@@ -159,6 +159,9 @@ Cette position, radicale aux yeux de certains écrivains et lecteurs, fait pourt
 
 <!-- .slide: data-background-image="img/ELOdirectory.png" data-background-size="contain"-->
 
+Source image : _ELO Directory_ (http://directory.eliterature.org/)
+
+<!-- .element: class="source" -->
 
 ===
 
@@ -167,11 +170,11 @@ Cette même définition s’est par ailleurs avérée décisive dans les initiat
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/defRestreinte.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/ArnaudMaïsetti.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 
->**"Le code était notre alphabet désormais. On dessinait. [...]. Des heures sur quelques lignes de code pour modifier tel interligne, et qui pour s’en apercevoir ? On se refilait les lignes de code comme des secrets, des formules vaguement magiques."** </br>Arnaud Maïsetti, 2018
+><p>**"Le code était notre alphabet désormais. On dessinait. [...]. Des heures sur quelques lignes de code pour modifier tel interligne, et qui pour s’en apercevoir ? On se refilait les lignes de code comme des secrets, des formules vaguement magiques."**</p><p>Arnaud Maïsetti, 2018<p>
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -186,9 +189,7 @@ Cette même définition s’est par ailleurs avérée décisive dans les initiat
 <!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
-> En ligne également, [les] nombreux auteurs venant de la littérature imprimée, incarnée notamment par François Bon, [qui] font vivre ce que l’on pourrait appeler une littérature blog, à la frontière de la littérature numérique et de la littérature traditionnelle.
-
->(Bouchardon, *La Valeur heuristique de la littérature*)
+><p>En ligne également, [les] nombreux auteurs venant de la littérature imprimée, incarnée notamment par François Bon, [qui] font vivre ce que l’on pourrait appeler une littérature blog, à la frontière de la littérature numérique et de la littérature traditionnelle.</p><p>Serge Bouchardon, *La Valeur heuristique de la littérature*
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -204,6 +205,13 @@ Ce corpus « oublié », ou largement sous-évalué, rassemble une large par
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/cropped-leomatrix.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+* Leonardo Flores, the "third wave" of ELO
+
+    * *First wave*: pre-web writings
+    * *Second wave*: innovative works, customed interfaces and forms
+    * *Third wave*: writing on established platforms of the web
 
 ===
 
