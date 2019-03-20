@@ -467,7 +467,7 @@ L’enjeu n’est d’ailleurs pas seulement symbolique, il est aussi politique,
 Massivement investis par les écrivains, ces nouveaux dispositifs éditoriaux (CMS, réseaux sociaux) permettent l’émergence d’une génération qui est loin de partager la même littératie numérique que celle qui l’a précédée. Mais avons-nous pour autant affaire à une génération d’écrivains « analphabètes », pour reprendre une question soulevée plus tôt ? La réalité est bien plus complexe.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/AnneARchetTwitter.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/DitaKepler.png" data-background-size="contain" -->
 
 
 Source image : Anne Archet, profil Twitter (2018)
@@ -476,7 +476,7 @@ Source image : Anne Archet, profil Twitter (2018)
 
 ===
 
-D’abord, il existe tout un mouvement dans lequel les écrivains, loin d’adhérer naïvement à ces formes éditoriales, les questionnent, les prennent à parti, et surtout les détournent telles des contraintes créatives. C’est le cas par exemple de l’écriture « profilaire »1 : investissant les plateformes conçues pour créer des « profils » d’usager, les écrivains ont largement joué des contraintes techniques, plastiques ou institutionnelles de ces objets très formatés.
+D’abord, il existe tout un mouvement dans lequel les écrivains, loin d’adhérer naïvement à ces formes éditoriales, les questionnent, les prennent à parti, et surtout les détournent telles des contraintes créatives. C’est le cas par exemple de l’écriture « profilaire » : investissant les plateformes conçues pour créer des « profils » d’usager, les écrivains ont largement joué des contraintes techniques, plastiques ou institutionnelles de ces objets très formatés.
 
 Là où les plateformes attendaient la création de profils « réels » (n’hésitant pas d’ailleurs à faire la guerre aux « faux » profils), les écrivains — mais aussi les amateurs — envahi les réseaux sociaux à des fins esthétiques — voir politiques. Ils y ont créé des personnages, des fictions, y ont forgé de nouvelles figures autoriales, singulières ou collectives, qui ont parfois largement dépassé leurs attentes.
 
@@ -511,8 +511,12 @@ Source image : Anne Archet, profil Facebook (2017)
 <!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/AnneARchetTwitter.png" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/AnneARchetTwitter.png" data-background-size="contain" -->
+
+
+Source image : Anne Archet, profil Twitter (2018)
+
+<!-- .element: class="source" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
