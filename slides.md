@@ -58,19 +58,16 @@ Ce que ce congrès a par ailleurs démontré, c'est l'importance de mener une r�
 
 <!-- .slide: class="hover"-->
 
-><p>La légitimation s’invite au rang des questions épineuses, dans le quotidien même des écrivains contemporains. Elle s’impose dans le même temps aux écranvains, fréquemment accusés de privilégier le support Internet, car permettant une autoédition synonyme de désintermédiation, c’est-à-dire de stratégie d’évitement des filtres traditionnels mis en place par la chaîne du livre. Pas une discussion au sujet des blogs qui n’interroge in fine, et parfois avec virulence, la littérarité problématique de leurs contenus.</p>
+><p>"La légitimation s’invite au rang des questions épineuses, dans le quotidien même des écrivains contemporains. Elle s’impose dans le même temps aux écranvains, fréquemment accusés de privilégier le support Internet, car permettant une autoédition synonyme de désintermédiation, c’est-à-dire de stratégie d’évitement des filtres traditionnels mis en place par la chaîne du livre. Pas une discussion au sujet des blogs qui n’interroge in fine, et parfois avec virulence, la littérarité problématique de leurs contenus."</p>
 
 ><p>Gilles Bonnet, *Pour une poétique numérique: littérature et Internet* (2018)</p>
 
-<!-- .element: style="font-size:1 rem" -->
-
+<!-- .element: style="font-size:1.6rem" -->
 ===
 
 S’attaquer à la question de la littérarité des écritures numériques semble constituer un défi quelque peu hasardeux : pourquoi, en effet, courir le risque de tomber dans le piège essentialiste tendu par ce concept sur lequel les théoriciens n’ont jamais réussi à s’entendre, après plus d’un siècle de débats? Force est de reconnaître, tout d’abord, l’actualité d’une problématique à l’origine de nombreuses tensions dans le champ de la littérature contemporaine, et en particulier de la littérature numérique, encore en quête de légitimation malgré déjà plusieurs décennies d’existence. Comme l’a souligné Gilles Bonnet :
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
 <!-- .slide: data-background-image="img/portierEtantDonneeInaccessible.png" data-background-size="contain"-->
 
 Source image : _http://etantdonnee.net/_ (depuis octobre 2017)
@@ -178,6 +175,10 @@ Cette même définition s’est par ailleurs avérée décisive dans les initiat
 
 <!-- .element: style="font-size:1.6rem" -->
 
+Source image : _Carnets_ Site web d'Arnaud Maïsetti
+
+<!-- .element: class="source" -->
+
 ===
 
 À propos de cette époque où les écrivains ont commencé créer leurs propres blogues et leurs sites, Arnaud Maïsetti écrit ainsi :
@@ -239,6 +240,10 @@ Cette vague, aussi massive qu’hétérogène, donne à ce problème littératie
 
 <!-- .slide: data-background-image="img/justWriteIt.png" data-background-size="contain"-->
 
+Source image : _Campagne "Just Write it" de Wattpad_
+
+<!-- .element: class="source" -->
+
 
 ===
 
@@ -247,6 +252,10 @@ Comment qualifier en effet ces écrivains qui ont recours à des solutions infor
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" data-background-size="contain"-->
+
+Source image : _Campagne anti-GAFAM, La Quadrature du net_
+
+<!-- .element: class="source" -->
 
 
 ===
@@ -278,18 +287,7 @@ En mars 2018, à l’occasion d’un colloque consacré aux rapports en littéra
 <!-- .slide: class="hover"-->
 
 
->**"Est-ce qu’au XIXe siècle il y avait des colloques sur l’auteur à l’ère de la plume d’oie taillée, ou des colloques sur l’auteur à l’ère de la plume Sergent-Major (1856) ou de la machine à écrire (1872) ? Personne n’a eu cette idée saugrenue. Parler des auteurs à l’ère numérique, d’auteurs numériques ou de littérature numérique nous enferme, nous étouffe, nous arrache au champ de la littérature. Nous nous en excluons nous-mêmes, et pour cause nous ne nous mélangeons presque jamais à ceux qui ne sont pas de notre paroisse."** </br> Thierry Crouzet, 2018.
-
-<!-- .element: style="font-size:1.6rem" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<!-- .slide: data-background-image="img/versionpapier.jpg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-
->**Cet auto-enfermement, dont je ne peux accuser les universitaires puisque nous en sommes nous-mêmes les premiers coupables, conduit les analystes à parler de notre posture d’auteurs, de nos techniques de publication, de promotion, parfois de travail, mais presque jamais de nos textes. On dirait que nous n’écrivons pas, on dirait que ceux qui parlent de notre travail ne nous lisent pas.
-Vos collègues célèbrent nos autres contemporains, ceux bien au chaud dans la chaîne confortable du vieux livre, portée par son économie et ses dorures clinquantes, imitez-les, ne vous étonnez plus de nos tours de passe-passe technologiques, essayez de vous émerveiller des émotions que nous tentons de saisir pour éprouver sans cesse davantage et éviter que l’habitude n’affadisse nos existences.**
+><p>**"Est-ce qu’au XIXe siècle il y avait des colloques sur l’auteur à l’ère de la plume d’oie taillée, ou des colloques sur l’auteur à l’ère de la plume Sergent-Major (1856) ou de la machine à écrire (1872) ? Personne n’a eu cette idée saugrenue. Parler des auteurs à l’ère numérique, d’auteurs numériques ou de littérature numérique nous enferme, nous étouffe, nous arrache au champ de la littérature. Nous nous en excluons nous-mêmes, et pour cause nous ne nous mélangeons presque jamais à ceux qui ne sont pas de notre paroisse."**</p><p>Thierry Crouzet, 2018.</p>
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -302,11 +300,28 @@ Source image : Thierry Crouzet, "La littérature numérique est morte" (blogue d
 <!-- .slide: data-background-image="img/versionpapier.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->**J’ai imprimé l’intégralité de mon blog il y a quelques mois pour me prouver à moi-même qu’il était une œuvre comme une autre, pour le ranger à côté de mes autres livres, le ranger à côté des livres des autres, pour l’inscrire matériellement dans l’histoire de la littérature. »
-« J’anticipe un prochain colloque où un universitaire fera le parallèle entre cette version papier de mon blog et sa version en ligne… Je l’arrête tout de suite. Les mots sont les mêmes, l’intention identique, la forme s’altère, mais pas davantage que quand je fais évoluer le template de mon blog, ajoutant quelques lignes de code pour qu’il suive l’évolution technologique. Je ne dis pas que tout cela est sans signification, bien au contraire, mais la signification doit être cherchée dans le texte, pas dans le paratexte dont la critique universitaire se gargarise un peu trop à mon avis.**
+><p>**"Cet auto-enfermement, dont je ne peux accuser les universitaires puisque nous en sommes nous-mêmes les premiers coupables, conduit les analystes à parler de notre posture d’auteurs, de nos techniques de publication, de promotion, parfois de travail, mais presque jamais de nos textes. On dirait que nous n’écrivons pas, on dirait que ceux qui parlent de notre travail ne nous lisent pas.
+Vos collègues célèbrent nos autres contemporains, ceux bien au chaud dans la chaîne confortable du vieux livre, portée par son économie et ses dorures clinquantes, imitez-les, ne vous étonnez plus de nos tours de passe-passe technologiques, essayez de vous émerveiller des émotions que nous tentons de saisir pour éprouver sans cesse davantage et éviter que l’habitude n’affadisse nos existences."**</p>
 
 <!-- .element: style="font-size:1.6rem" -->
 
+Source image : Thierry Crouzet, "La littérature numérique est morte" (blogue de l'auteur)
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/versionpapier.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+><p>**"J’ai imprimé l’intégralité de mon blog il y a quelques mois pour me prouver à moi-même qu’il était une œuvre comme une autre, pour le ranger à côté de mes autres livres, le ranger à côté des livres des autres, pour l’inscrire matériellement dans l’histoire de la littérature. »
+« J’anticipe un prochain colloque où un universitaire fera le parallèle entre cette version papier de mon blog et sa version en ligne… Je l’arrête tout de suite. Les mots sont les mêmes, l’intention identique, la forme s’altère, mais pas davantage que quand je fais évoluer le template de mon blog, ajoutant quelques lignes de code pour qu’il suive l’évolution technologique. Je ne dis pas que tout cela est sans signification, bien au contraire, mais la signification doit être cherchée dans le texte, pas dans le paratexte dont la critique universitaire se gargarise un peu trop à mon avis."**</p>
+
+<!-- .element: style="font-size:1.6rem" -->
+
+Source image : Thierry Crouzet, "La littérature numérique est morte" (blogue de l'auteur)
+
+<!-- .element: class="source" -->
 ===
 
 Il peut sembler paradoxal de lire ce discours sur le blogue de l’auteur de La mécanique du texte, qui a su parfaitement revendiquer et démontrer l’importance de la technique sur le sens même de l’écriture.
@@ -366,7 +381,7 @@ Je n’ai jamais vu de mes yeux (et donc encore moins lu) nombre d’œuvres él
 <!-- .slide: data-background-image="img/Bayard.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->**"Contrairement aux idées reçues, il est tout à fait possible d'avoir un échange passionnant à propos d'un livre que l'on n'a pas lu, y compris, et peut-être surtout, avec quelqu'un qui ne l'a pas lu non plus."** </br>Pierre Bayard, *Comment parler des livres qu'on a pas lus*, 2007)
+><p>**"Contrairement aux idées reçues, il est tout à fait possible d'avoir un échange passionnant à propos d'un livre que l'on n'a pas lu, y compris, et peut-être surtout, avec quelqu'un qui ne l'a pas lu non plus."**</p><p>Pierre Bayard, *Comment parler des livres qu'on a pas lus*, 2007<p>
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -388,7 +403,7 @@ On ne raconte pas l’histoire d’une œuvre de littérature numérique, on rac
 <!-- .slide: data-background-image="img/nt2Repertoire.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->**"Pour Brian Kim Stefans, la « valeur » de la littérature générative doit par exemple être cherchée non pas dans les textes produits, mais dans la <FONT color="red">«&nbsp;discordance&nbsp;»</FONT color="red"> avec la tradition. [...] Émerge ainsi comme critère de valeur éminemment important celui de la <FONT color="red">«&nbsp;déviation&nbsp;»</FONT color="red">, de la mise en question des genres, normes et conventions. L’<FONT color="red">«&nbsp;écart esthétique&nbsp;»</FONT color="red"> avec les attentes du lecteur se situe soit dans le rapport aux traditions littéraires papier ; soit il se manifeste par rapport aux normes et conventions d’une intermédialité pré-numérique."** </br>Alexandra Saemmer, "La littérature numérique entre légitimation et canonisation", 2001
+><p>**"Pour Brian Kim Stefans, la « valeur » de la littérature générative doit par exemple être cherchée non pas dans les textes produits, mais dans la <FONT color="red">«&nbsp;discordance&nbsp;»</FONT color="red"> avec la tradition. [...] Émerge ainsi comme critère de valeur éminemment important celui de la <FONT color="red">«&nbsp;déviation&nbsp;»</FONT color="red">, de la mise en question des genres, normes et conventions. L’<FONT color="red">«&nbsp;écart esthétique&nbsp;»</FONT color="red"> avec les attentes du lecteur se situe soit dans le rapport aux traditions littéraires papier ; soit il se manifeste par rapport aux normes et conventions d’une intermédialité pré-numérique."**</p><p>Alexandra Saemmer, "La littérature numérique entre légitimation et canonisation", 2001</p>
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -407,7 +422,7 @@ De fait, on comprend bien que l’idée de technique, et plus tard le principe d
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/nt2Repertoire.png" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
+
 ===
 
 En résumé, il me semble donc que l’importance accordée à la dimension technique des œuvres numériques répond probablement d’abord à un besoin de légitimation, et non à des critères de littérarité, même si nous avons parfois tendance à considérer ces deux aspects comme concomitants. Là où l’éditeur traditionnel assumait autrefois un rôle de garant, ce sont aujourd’hui les compétences numériques de l’écrivain que l’on a mis en avant pour assurer la qualité littéraire d’une œuvre — au risque de la survaloriser ou au contraire de la sous-estimer. Et si la question de la littérarité numérique n’a pas de réponse simple et univoque, on peut encore se poser la question suivante : cette conception de la technique retenue il y a quelques années pour penser la valeur même de la littérature numérique, est-elle encore valable ? Les mutations rapides et spectaculaires du fait numérique nous poussent à engager une réévaluation de cet imaginaire technologique et, dans son sillage, d’un grand nombre d’objets littéraires (blogues, « twittérature »1 et autres textes publiés sur des plateformes comme Wattpad) qui, bien que natifs numériques, ne correspondent pas exactement aux critères canoniques de la littérature électronique des grands répertoires et se trouvent encore trop souvent marginalisés.
@@ -425,7 +440,7 @@ Ce débat sur la littérarité cache en fin de compte une autre question : que 
 <!-- .slide: data-background-image="img/poem.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->**"Au-delà de la compétence technique de l’auteur, la valeur littéraire relèverait en particulier des connotations attribuées au prestige d’une technologie ou d’une marque à laquelle il associe son nom. Dans ce cadre, l’œuvre littéraire apparaîtrait comme indissociable de la strate des discours tenus à son sujet comme production technique. [...] ce n’est pas tant “lire“ qui compte que “lire sur iphone“, ni tant “écrire“ que “écrire sous Java“".** </br>Candel et Gomez-Gomez-Meija, 2013
+><p>**"Au-delà de la compétence technique de l’auteur, la valeur littéraire relèverait en particulier des connotations attribuées au prestige d’une technologie ou d’une marque à laquelle il associe son nom. Dans ce cadre, l’œuvre littéraire apparaîtrait comme indissociable de la strate des discours tenus à son sujet comme production technique. [...] ce n’est pas tant “lire“ qui compte que “lire sur iphone“, ni tant “écrire“ que “écrire sous Java“".**</p><p>Candel et Gomez-Gomez-Meija, 2013</p>
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -466,11 +481,15 @@ D’abord, il existe tout un mouvement dans lequel les écrivains, loin d’adh�
 Là où les plateformes attendaient la création de profils « réels » (n’hésitant pas d’ailleurs à faire la guerre aux « faux » profils), les écrivains — mais aussi les amateurs — envahi les réseaux sociaux à des fins esthétiques — voir politiques. Ils y ont créé des personnages, des fictions, y ont forgé de nouvelles figures autoriales, singulières ou collectives, qui ont parfois largement dépassé leurs attentes.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/archetInvisible.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/DitaKepler.png" data-background-size="contain" -->
 
->Quand j’ai créé mon avatar sur Second Life Dita Kepler, en 2009, je savais que je ne voulais pas en faire un personnage dans l’acception classique du terme. Je voulais simplement qu’elle reste le plus libre possible, non liée à la publication : je lisais mes textes en public, au Cent Quatre ou à la Bellevilloise, mais ne les postais pas sur Fenêtres, n’en faisais pas un ensemble à soumettre à un éditeur. Je ne pouvais pas prévoir que Pierre Ménard allait la faire parler sur Twitter — ce que j’avais pourtant implicitement mis en route en disant un jour en public que tout le monde pouvait s’emparer d’elle. A partir de là, Dita Kepler est restée “mon” personnage, mais elle a, sans le dire, été voir ailleurs, du côté d’autres auteurs. Sur Twitter, c’est parfois moi qui tient le compte, parfois non. Chez Christophe Grossi, on trouve un texte qui parle d’elle... Etc. »
+><p>"Quand j’ai créé mon avatar sur Second Life Dita Kepler, en 2009, je savais que je ne voulais pas en faire un personnage dans l’acception classique du terme. Je voulais simplement qu’elle reste le plus libre possible, non liée à la publication : je lisais mes textes en public, au Cent Quatre ou à la Bellevilloise, mais ne les postais pas sur Fenêtres, n’en faisais pas un ensemble à soumettre à un éditeur. Je ne pouvais pas prévoir que Pierre Ménard allait la faire parler sur Twitter — ce que j’avais pourtant implicitement mis en route en disant un jour en public que tout le monde pouvait s’emparer d’elle. A partir de là, Dita Kepler est restée “mon” personnage, mais elle a, sans le dire, été voir ailleurs, du côté d’autres auteurs. Sur Twitter, c’est parfois moi qui tient le compte, parfois non. Chez Christophe Grossi, on trouve un texte qui parle d’elle... Etc."</p>
 
->Dita Kepler intervient souvent quand je n’arrive plus à m’exprimer, quand quelque chose se met à se gripper. Elle se met à parler à ma place.
+><p>Dita Kepler intervient souvent quand je n’arrive plus à m’exprimer, quand quelque chose se met à se gripper. Elle se met à parler à ma place.</p>
+
+<!-- .element: style="font-size:1.6rem" -->
+
+Source : Profil Twitter Dita Kepler
 
 <!-- .element: class="source" -->
 
@@ -521,7 +540,7 @@ Les enjeux de la littératie numérique ont été abordés tout récemment par S
 <!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->**"Pour comprendre le fonctionnement du numérique, il faut comprendre l’articulation, non pas de deux, mais de trois niveaux : il y a ce qu’écrit la machine, ce qu’écrit le programmeur de cette machine, et ce qu’écrit l’utilisateur de cette machine. Lire un document numérique quelconque, c’est lire ces trois niveaux, quoique seul le dernier soit visible. (...) L’enjeu pédagogique est de faire émerger une littératie numérique, au-delà de l’alphabétisation classiquement prise en charge par les formations traditionnelles à l’utilisation des outils. Les élèves sont souvent des alphabétisés du numérique, mais ne sont pas toujours des lettrés du numérique. Ils savent poser techniquement un lien hypertexte, mais ne maîtrisent pas forcément la sémantique et la rhétorique du lien hypertexte."**"</br> Victor Petit et Serge Bouchardon, 2017
+><p>**"Pour comprendre le fonctionnement du numérique, il faut comprendre l’articulation, non pas de deux, mais de trois niveaux : il y a ce qu’écrit la machine, ce qu’écrit le programmeur de cette machine, et ce qu’écrit l’utilisateur de cette machine. Lire un document numérique quelconque, c’est lire ces trois niveaux, quoique seul le dernier soit visible. (...) L’enjeu pédagogique est de faire émerger une littératie numérique, au-delà de l’alphabétisation classiquement prise en charge par les formations traditionnelles à l’utilisation des outils. Les élèves sont souvent des alphabétisés du numérique, mais ne sont pas toujours des lettrés du numérique. Ils savent poser techniquement un lien hypertexte, mais ne maîtrisent pas forcément la sémantique et la rhétorique du lien hypertexte."**</p><p>Victor Petit et Serge Bouchardon, 2017<p>
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -537,27 +556,19 @@ Source image : Campagne d'affichage de La Quadrature du net, 2018
 
 <!-- .element: class="source" -->
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<!-- .slide: data-background-image="img/portier2.png" data-background-size="contain"-->
-
-
-Source image : _Étant donnée_ Cécile Portier (2012)
-
-<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/traqueTraces.png" data-background-size="contain"-->
+<!-- .slide: data-background-video="img/Etant_Donnee1.mp4" data-background-size="contain"-->
 
-Source image : _Traque Traces_ Cécile Portier (2011)
+Source image : _Étant donnée_ Cécile Portier (2011)
 
 <!-- .element: class="source" -->
 
 
 ===
 
-Cette préoccupation est centrale dans le travail mené par de nombreux écrivains qui, aujourd’hui, questionnent les effets d’éditorialisation sur le web. On pensera par exemple à deux projets bien connus de Cécile Portier : Étant donnée1, ou encore Traques Traces2 (lequel a justement été réalisé avec des élèves du secondaire). Ces projets interrogent notre capacité à maîtriser nos propres écritures numériques, qui désormais passent par des outils, des plateformes et des interfaces qui ont tendance à effacer l’impression de la technique.
+Cette préoccupation est centrale dans le travail mené par de nombreux écrivains qui, aujourd’hui, questionnent les effets d’éditorialisation sur le web. On pensera par exemple à deux projets bien connus de Cécile Portier : *Étant donnée*, ou encore *Traques Traces* (lequel a justement été réalisé avec des élèves du secondaire). Ces projets interrogent notre capacité à maîtriser nos propres écritures numériques, qui désormais passent par des outils, des plateformes et des interfaces qui ont tendance à effacer l’impression de la technique.
 
 Des applications que nous utilisons au quotidien — Google Street View, notre réseau social ou notre moteur de recherche favori — et se posent en « fenêtre sur le monde », alors même qu’elles ont un effet structurant ou plutôt déstructurant du réel. Principales tension du moment : l’exploitation des données, cette écriture latente dont le sens et la portée tendent à nous échapper, mais que d’autres utilisent pour nous profiler, nous calculer, et surtout nous influencer.
 
@@ -572,12 +583,11 @@ Des applications que nous utilisons au quotidien — Google Street View, notre r
 
 ===
 
-En investissant ces plateformes, et en créant notamment une série de personnages-profils comme dans Traque-Traces, Cécile Portier pratique une forme d’écriture littéraire des données. Le principe est simple : créer, via la fiction, de fausses données numériques venant s’ajouter à la masse des données « réelles  ». Inventer, publier et relayer partout la fiction, véritable cheval de Troie pour tromper la machine et fausser le calcul, « écrire sur les sismographes sociaux qui nous écrivent ». Reprendre le contrôle en écrivant par-dessus nos données, pour y ajouter une strate fictionnelle, mais aussi poétique.
+En investissant ces plateformes, et en créant notamment une série de personnages-profils comme dans Traque-Traces ou Étant donnée, Cécile Portier pratique une forme d’écriture littéraire des données. Le principe est simple : créer, via la fiction, de fausses données numériques venant s’ajouter à la masse des données « réelles  ». Inventer, publier et relayer partout la fiction, véritable cheval de Troie pour tromper la machine et fausser le calcul, « écrire sur les sismographes sociaux qui nous écrivent ». Reprendre le contrôle en écrivant par-dessus nos données, pour y ajouter une strate fictionnelle, mais aussi poétique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/traq_cap_01.jpg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
 
 ===
 
@@ -600,21 +610,24 @@ On ne poursuivra pas davantage l’analyse : suite à un problème technique (D
 
 ## Conclusion : Effacer l’impression de la technique ?
 
+Source image : _Excédants_ Éric Rondepierre
+
+<!-- .element: class="source" -->
 
 ===
 En écho au post Thierry Crouzet cité plus tôt (« La littérature numérique est morte »), Arnaud Maïsetti résumait en ces termes son propre rapport à la technique :
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/portierEtantDonneeInaccessible.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/rondepierreexcedents.png" data-background-size="contain" -->
 
->Puisque nos écritures sont nativement numériques, doivent-elles n’être envisagées qu’à cette aune ? Étranges tensions. Pour ma part, je n’aurais fait du code que pour effacer l’impression de la technique : page blanche (en fait, pas tout à fait blanche : un peu grise ; la technique nous apprend que le blanc sur noir est difficilement lisible, qu’un dégradé imperceptible est nécessaire). Il en est du design (la mise en forme des objets pour l’usage ?) comme de la langue [...], non pas pour se demander comment le fond témoigne de la forme (vieille question), mais dans quelle mesure le nouage pouvait conclure à la singularité des écritures et de notre époque.
+><p>"Puisque nos écritures sont nativement numériques, doivent-elles n’être envisagées qu’à cette aune ? Étranges tensions. Pour ma part, je n’aurais fait du code que pour effacer l’impression de la technique : page blanche (en fait, pas tout à fait blanche : un peu grise ; la technique nous apprend que le blanc sur noir est difficilement lisible, qu’un dégradé imperceptible est nécessaire). Il en est du design (la mise en forme des objets pour l’usage ?) comme de la langue [...], non pas pour se demander comment le fond témoigne de la forme (vieille question), mais dans quelle mesure le nouage pouvait conclure à la singularité des écritures et de notre époque."</p>
 
->Arnaud Maïsetti
+><p>Arnaud Maïsetti</p>
 
 ===
 
-Langue et technique apparaissent comme des « sables mouvants », pour reprendre la formule de Bataille1, dont la maîtrise n’est jamais totalement assurée. Comme la langue, la technique est loin d’être figée, elle se transforme sous l’action de ses usagers, elle conduit à des partis-pris et fait l’objet de nombreux désaccords.
+Langue et technique apparaissent comme des « sables mouvants », pour reprendre la formule de Bataille, dont la maîtrise n’est jamais totalement assurée. Comme la langue, la technique est loin d’être figée, elle se transforme sous l’action de ses usagers, elle conduit à des partis-pris et fait l’objet de nombreux désaccords.
 
 À l’heure où un nouveau rapport à la technique se dessine pour toute une vague d’écrivains et de lecteurs (on préférera le terme « vague » à celui de « génération », qui pourrait donner l’impression d’un conflit générationnel, ce qui n’est pas tout à fait le cas), ces désaccords promettent des débats cruciaux, notamment en ce qui concerne la légitimation de la littérature numérique — dont la définition même semble en jeu. Ces débats, comprenons-le bien, ne sont qu’une déclinaison des discussions sur le capital symbolique des maisons d’édition plus traditionnelles. Aussi est-il temps, pour les chercheurs, de prendre en compte davantage l’imaginaire de la technique et son système de valeur associé. Loin de se débarrasser de la question technique, il s’agit plutôt de la réintégrer dans une réflexion épistémologique.
 
@@ -622,9 +635,9 @@ Langue et technique apparaissent comme des « sables mouvants », pour repre
 
 <!-- .slide: data-background-image="img/portierEtantDonneeInaccessible.png" data-background-size="contain"-->
 
->Curieux anachronisme, ces questions autour de “L’avenir du livre” quand on tâchait de parler du présent de l’écriture ; même pas de l’écriture : l’écriture, c’était seulement le prétexte : le présent du monde, c’était seul ce qu’on voulait nommer, et cela d’ailleurs est ce qui demeure encore, demeurera.
+><p>"Curieux anachronisme, ces questions autour de “L’avenir du livre” quand on tâchait de parler du présent de l’écriture ; même pas de l’écriture : l’écriture, c’était seulement le prétexte : le présent du monde, c’était seul ce qu’on voulait nommer, et cela d’ailleurs est ce qui demeure encore, demeurera".</p>
 
->Arnaud Maïsetti
+><p>Arnaud Maïsetti</p>
 
 ===
 
