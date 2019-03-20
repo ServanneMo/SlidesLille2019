@@ -62,7 +62,7 @@ Ce que ce congrès a par ailleurs démontré, c'est l'importance de mener une r�
 
 ><p>Gilles Bonnet, *Pour une poétique numérique: littérature et Internet* (2018)</p>
 
-<!-- .element: style="font-size:1.4rem" -->
+<!-- .element: style="font-size:1 rem" -->
 
 ===
 
