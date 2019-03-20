@@ -483,6 +483,8 @@ Là où les plateformes attendaient la création de profils « réels » (n�
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/DitaKepler.png" data-background-size="contain" -->
 
+<!-- .slide: class="hover"-->
+
 ><p>"Quand j’ai créé mon avatar sur Second Life Dita Kepler, en 2009, je savais que je ne voulais pas en faire un personnage dans l’acception classique du terme. Je voulais simplement qu’elle reste le plus libre possible, non liée à la publication : je lisais mes textes en public, au Cent Quatre ou à la Bellevilloise, mais ne les postais pas sur Fenêtres, n’en faisais pas un ensemble à soumettre à un éditeur. Je ne pouvais pas prévoir que Pierre Ménard allait la faire parler sur Twitter — ce que j’avais pourtant implicitement mis en route en disant un jour en public que tout le monde pouvait s’emparer d’elle. A partir de là, Dita Kepler est restée “mon” personnage, mais elle a, sans le dire, été voir ailleurs, du côté d’autres auteurs. Sur Twitter, c’est parfois moi qui tient le compte, parfois non. Chez Christophe Grossi, on trouve un texte qui parle d’elle... Etc."</p>
 
 ><p>Dita Kepler intervient souvent quand je n’arrive plus à m’exprimer, quand quelque chose se met à se gripper. Elle se met à parler à ma place.</p>
@@ -509,7 +511,12 @@ Source image : Anne Archet, profil Facebook (2017)
 <!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/ArchetPoupee.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/AnneARchetTwitter.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/archetInvisible.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 
@@ -620,6 +627,7 @@ En écho au post Thierry Crouzet cité plus tôt (« La littérature numériqu
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/rondepierreexcedents.png" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
 
 ><p>"Puisque nos écritures sont nativement numériques, doivent-elles n’être envisagées qu’à cette aune ? Étranges tensions. Pour ma part, je n’aurais fait du code que pour effacer l’impression de la technique : page blanche (en fait, pas tout à fait blanche : un peu grise ; la technique nous apprend que le blanc sur noir est difficilement lisible, qu’un dégradé imperceptible est nécessaire). Il en est du design (la mise en forme des objets pour l’usage ?) comme de la langue [...], non pas pour se demander comment le fond témoigne de la forme (vieille question), mais dans quelle mesure le nouage pouvait conclure à la singularité des écritures et de notre époque."</p>
 
@@ -633,7 +641,7 @@ Langue et technique apparaissent comme des « sables mouvants », pour repre
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/portierEtantDonneeInaccessible.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/rondepierreexcedents.png" data-background-size="contain"-->
 
 ><p>"Curieux anachronisme, ces questions autour de “L’avenir du livre” quand on tâchait de parler du présent de l’écriture ; même pas de l’écriture : l’écriture, c’était seulement le prétexte : le présent du monde, c’était seul ce qu’on voulait nommer, et cela d’ailleurs est ce qui demeure encore, demeurera".</p>
 
