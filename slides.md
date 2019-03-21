@@ -353,6 +353,7 @@ Tout se passe en effet comme si le paratexte numérique (dont il n’est pas que
 
 
 ===
+Nul besoin de procéder à une analyse systématique des pratiques des chercheurs en arts et littératures numériques pour relever un paradoxe important : la majeure partie des œuvres dont nous parlons dans nos travaux théoriques et critiques n’est plus accessible, parfois partiellement, parfois entièrement. Aussi, Thierry Crouzet est loin d’avoir tort sur un point
 
 la majeure partie des œuvres dont nous parlons dans nos travaux théoriques et critiques n’est plus accessible, parfois partiellement, parfois entièrement. Aussi, Thierry Crouzet est loin d’avoir tort sur un point : nous ne lisons pas (ou plus) toujours les œuvres dont nous parlons.
 
@@ -470,7 +471,7 @@ Massivement investis par les écrivains, ces nouveaux dispositifs éditoriaux (C
 <!-- .slide: data-background-image="img/DitaKepler.png" data-background-size="contain" -->
 
 
-Source image : Anne Archet, profil Twitter (2018)
+Source image : Dita Kepler (Anne Savelli), profil Twitter (2018)
 
 <!-- .element: class="source" -->
 
@@ -485,9 +486,9 @@ Là où les plateformes attendaient la création de profils « réels » (n�
 
 <!-- .slide: class="hover"-->
 
-><p>"Quand j’ai créé mon avatar sur Second Life Dita Kepler, en 2009, je savais que je ne voulais pas en faire un personnage dans l’acception classique du terme. Je voulais simplement qu’elle reste le plus libre possible, non liée à la publication : je lisais mes textes en public, au Cent Quatre ou à la Bellevilloise, mais ne les postais pas sur Fenêtres, n’en faisais pas un ensemble à soumettre à un éditeur. Je ne pouvais pas prévoir que Pierre Ménard allait la faire parler sur Twitter — ce que j’avais pourtant implicitement mis en route en disant un jour en public que tout le monde pouvait s’emparer d’elle. A partir de là, Dita Kepler est restée “mon” personnage, mais elle a, sans le dire, été voir ailleurs, du côté d’autres auteurs. Sur Twitter, c’est parfois moi qui tient le compte, parfois non. Chez Christophe Grossi, on trouve un texte qui parle d’elle... Etc."</p>
+><p>"**Quand j’ai créé mon avatar sur Second Life Dita Kepler, en 2009, je savais que je ne voulais pas en faire un personnage dans l’acception classique du terme. Je voulais simplement qu’elle reste le plus libre possible, non liée à la publication : je lisais mes textes en public, au Cent Quatre ou à la Bellevilloise, mais ne les postais pas sur Fenêtres, n’en faisais pas un ensemble à soumettre à un éditeur. Je ne pouvais pas prévoir que Pierre Ménard allait la faire parler sur Twitter — ce que j’avais pourtant implicitement mis en route en disant un jour en public que tout le monde pouvait s’emparer d’elle. A partir de là, Dita Kepler est restée “mon” personnage, mais elle a, sans le dire, été voir ailleurs, du côté d’autres auteurs. Sur Twitter, c’est parfois moi qui tient le compte, parfois non. Chez Christophe Grossi, on trouve un texte qui parle d’elle... Etc.**"</p>
 
-><p>Dita Kepler intervient souvent quand je n’arrive plus à m’exprimer, quand quelque chose se met à se gripper. Elle se met à parler à ma place.</p>
+><p>**Dita Kepler intervient souvent quand je n’arrive plus à m’exprimer, quand quelque chose se met à se gripper. Elle se met à parler à ma place.**</p>
 
 <!-- .element: style="font-size:1.6rem" -->
 
@@ -499,7 +500,7 @@ Source : Profil Twitter Dita Kepler
 
 À propos de son « avatar » Dita Kepler, Anne Savelli reconnait par exemple : CITER
 
-L’écriture profilaire relève en fait des tactical media1 : c’est-à-dire une stratégie de type « cheval de Troie », qui consiste à investir la plateforme pour mieux la torpiller, de l’intérieur. Cette stratégie est révélatrice du déplacement du sens même de nos « compétences numériques ». Celles-ci ne se fondent plus seulement sur un savoir technique, mais aussi sur une culture, qui suppose notamment la maîtrise des connotations associées au web. L’autorité de l’écrivain en ligne se joue donc désormais sur cette culture, cette compréhension d’enjeux historiques, politiques, identitaires, des nouvelles technologies.
+L’écriture profilaire relève en fait des tactical media (Geert Lovink) : c’est-à-dire une stratégie de type « cheval de Troie », qui consiste à investir la plateforme pour mieux la torpiller, de l’intérieur. Cette stratégie est révélatrice du déplacement du sens même de nos « compétences numériques ». Celles-ci ne se fondent plus seulement sur un savoir technique, mais aussi sur une culture, qui suppose notamment la maîtrise des connotations associées au web. L’autorité de l’écrivain en ligne se joue donc désormais sur cette culture, cette compréhension d’enjeux historiques, politiques, identitaires, des nouvelles technologies.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -559,14 +560,6 @@ Les enjeux de la littératie numérique ont été abordés tout récemment par S
 
 Cette distinction entre analphabétisme et illettrisme numérique est probablement le véritable enjeu de notre culture numérique contemporain. Ainsi, pour Serge Bouchardon et Victor Petit, tout l’enjeu est désormais de « développer une littératie numérique sans avoir nécessairement recours à l’écriture du programme. Mais cela est impossible si l’on ne comprend pas l’articulation des trois niveaux de l’écriture numérique, et donc la manière dont l’écriture informatique conditionne l’écriture numérique. »
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" data-background-size="contain"-->
-
-
-Source image : Campagne d'affichage de La Quadrature du net, 2018
-
-<!-- .element: class="source" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -614,14 +607,14 @@ Source image : _http://etantdonnee.net/_ (depuis octobre 2017)
 
 ===
 
-On ne poursuivra pas davantage l’analyse : suite à un problème technique (DNS probablement non-renouvelé), Traques-Traces n’est aujourd’hui plus accessible sur son site, comme tant d’autres œuvres de la littérature numérique.
+On ne poursuivra pas davantage l’analyse : suite à un problème technique (DNS probablement non-renouvelé), Traques-Traces et Étant Données ne sont aujourd’hui plus accessible sur leurs sites, comme tant d’autres œuvres de la littérature numérique.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/rondepierreexcedents.png" data-background-size="contain" -->
 
 ## Conclusion : Effacer l’impression de la technique ?
 
-Source image : _Excédants_ Éric Rondepierre
+Source image : _Excédents_ Éric Rondepierre
 
 <!-- .element: class="source" -->
 
@@ -637,6 +630,12 @@ En écho au post Thierry Crouzet cité plus tôt (« La littérature numériqu
 
 ><p>Arnaud Maïsetti</p>
 
+<!-- .element: style="font-size:1.6rem" -->
+
+Source image : _Excédents_ Éric Rondepierre
+
+<!-- .element: class="source" -->
+
 ===
 
 Langue et technique apparaissent comme des « sables mouvants », pour reprendre la formule de Bataille, dont la maîtrise n’est jamais totalement assurée. Comme la langue, la technique est loin d’être figée, elle se transforme sous l’action de ses usagers, elle conduit à des partis-pris et fait l’objet de nombreux désaccords.
@@ -651,6 +650,12 @@ Langue et technique apparaissent comme des « sables mouvants », pour repre
 
 ><p>Arnaud Maïsetti</p>
 
+<!-- .element: style="font-size:1.6rem" -->
+
+Source image : _Excédents_ Éric Rondepierre
+
+<!-- .element: class="source" -->
+
 ===
 
 C’est ainsi que l’on pourra, espérons-le, en revenir aux textes qui font la littérature numérique :
@@ -658,7 +663,7 @@ C’est ainsi que l’on pourra, espérons-le, en revenir aux textes qui font la
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/portierEtantDonneeInaccessible.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/umbrico.jpg" data-background-size="contain"-->
 
 ### Merci !
 
