@@ -297,7 +297,7 @@ Ce phénomène, s'il marque une évolution des pratiques littéraires, suggère 
 Pour certains, il n'y a qu'un pas pour affirmer que la dernière génération de littérature électronique est une génération d'écrivains analphabètes -- car ne maîtrisant pas le code. Mais peut-on dire pour autant que ces nouveaux écrivains n'ont pas la maîtrise du fait numérique, uniquement parce qu'ils n'ont pas la maîtrise du code ?
 
 
-Ces questionnements impliquent un premier déplacement : des critical code studies vers le champ des platform studies, voire des sofware studies -- un champ des études médiatiques entièrement tourné l'étude des logiciels, notamment dans leurs impacts socio-culturels. On pourrait croire qu'on s'éloigne ici de la littérature, mais je précise que l'un des fondateurs de sofware studies - l'allemand F. Kittler, un des pionniers des HN et des études littéraires assistées par ordinateur.
+La littéraTube -- souvent de la poésie filmée et mise en images, comme ici dans un exemple récent de Gracia Bejjani -- est sans aucun doute beaucoup plus accessible au lecteur qu'une oeuvre générative.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -307,17 +307,20 @@ Ces questionnements impliquent un premier déplacement : des critical code studi
 
 ===
 
-Il apparaît alors que l'abandon de la technique de programmation ne se conjugue pas avec un renoncement esthétique, mais plutôt avec un déplacement de la littérarité, qui se traduit parfois par un véritable retour à des formes poétiques plus traditionnelles.
+Il apparaît alors que l'abandon de la technique de programmation ne se conjugue pas avec un renoncement esthétique, mais plutôt avec un déplacement de la littérarité, qui se traduit parfois par un véritable retour à des formes poétiques plus traditionnelles, voire par un retour au format imprimé.
 
-La littéraTube -- souvent de la poésie filmée et mise en images, comme ici dans un exemple récent de Gracia Bejjani -- est sans aucun doute beaucoup plus accessible au lecteur qu'une oeuvre générative.
+L'outil numérique n'est plus tant utilisé pour produire un texte computable, mais pour ouvrir un espace de publication et de liberté, en marge (et parfois en opposition) à un écosystème éditorial où il ne se sentent pas très bien accueillis.
+
+Le critère numérique, en tous les cas, ne doit plus être le seul signe de littératité. Dans un colloque que je coorganisais il y a quelques années, et qui portait le titre original "L'écrivain à l'ère du numérique", l'écrivain Thierry Crouzet s'était ainsi emporté :
+
+>"Est-ce qu’au XIXe siècle il y avait des colloques sur l’auteur à l’ère de la plume d’oie taillée, ou des colloques sur l’auteur à l’ère de la plume Sergent-Major (1856) ou de la machine à écrire (1872) ? Personne n’a eu cette idée saugrenue. Parler des auteurs à l’ère numérique, d’auteurs numériques ou de littérature numérique nous enferme, nous étouffe, nous arrache au champ de la littérature. Nous nous en excluons nous-mêmes, et pour cause nous ne nous mélangeons presque jamais à ceux qui ne sont pas de notre paroisse."
+
 
 Là où les deux premières générations d'écrivains "numériques" ont défini une littérarité numérique à partir de critères essentiellement informatiques (l'écriture du code et la programmation des oeuvres), une nouvelle génération esquisse une autre forme de littérarité qui repose sur ce que l'on appelle communément aujourd'hui la littératie numérique.
 
-À travers ce terme de "littératie numérique", il s'agit de désigner une compétence numérique qui se distingue de la compétence informatique, pour s'attacher à la compréhension des enjeux théoriques, politiques, philosophiques et épistémiques du fait numérique. À ces nouvelles esthétiques, également.
+À travers ce terme de "littératie numérique", il s'agit de désigner une compétence numérique qui se distingue de la compétence informatique, pour s'attacher à la compréhension des enjeux théoriques, politiques, philosophiques et épistémiques du fait numérique.
 
-Ce qui se jour ici, notamment, c'est la capacité de jouer avec les formes culturelles de ces plateformes et avec leurs algorithmes de recommandation. Fondamentalement sociales, ces plateformes requièrent de la part de ces « écranvains » la maîtrise de ces nouvelles sociabilités numériques, dont on comprend non seulement les dynamiques légitimantes, mais aussi les effets performatifs sur l'écriture et donc sur le texte lui-même.
-
-Cette influence formelle de la plateforme sur l'écriture suppose une connaissance des enjeux techniques, sémiologiques et epistémologiques de ces espaces en tant que nouvel espace littéraire. Malgré la promesse de facilité et de simplicité, le media qu'ils constituent ne peut prétendre à la transparence médiatique dont se parent souvent les nouveaux medias. Les auteurs-artistes s'y engouffrent très justement et le détournement de la plateforme et de ses codes sociaux et culturels fait bien partie intégrante de l'acte créatif. Ils cherchent effectivement à provoquer chez le lecteur un effet d'étrangeté, dont le caractère subversif invite à questionner ces plateformes, et en particulier leur gouvernementalité algorithmique. Nous pourrions ainsi caractériser cette 3e génération par ce déplacement de littérarité vers une réflexion sur les enjeux socio-politiques et culturels des outils numériques "grand public".
+Ce qui se joue alors, notamment, c'est la capacité de jouer avec les formes culturelles de ces plateformes et avec leurs algorithmes de recommandation. Fondamentalement sociales, ces plateformes requièrent de la part de ces « écranvains » la maîtrise de ces nouvelles sociabilités numériques, dont on comprend non seulement les dynamiques légitimantes, mais aussi les effets performatifs sur l'écriture et donc sur le texte lui-même.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -465,7 +468,9 @@ Tout en s'appuyant sur ces plateformes qui se posent en « fenêtre sur le mon
 
 La puissance heuristique de ces oeuvres est donc essentielle, même si elles s'appuient sur un renversement du processus que l’on a pu penser en littérature numérique : ce n’est plus le code que l’on doit apprendre pour façonner une nouvelle forme d’écriture littéraire ; c’est l’écriture littéraire, fictionnelle et poétique qui permet de prendre conscience et de décoder les enjeux d'une environnement numérique désormais largement plateformisé.
 
-Un brin moins « spectaculaire » techniquement, cette littérature ne joue peut-être pas autant des potentialités du code que les œuvres de littérature électronique qui l’ont précédée. Mais elle vient témoigner d’autre chose : des enjeux sociétaux posés par la transition numérique, de la manière dont notre identité se forge désormais, de ce que veulent dire aujourd’hui les concepts d’amitié, d’amour, de temps et d’espace : ce sont-là, en fait, des préoccupations qui ont traversé l’histoire de la littérature.
+Un brin moins « spectaculaire » techniquement, cette littérature ne joue peut-être pas autant des potentialités du code que les œuvres de littérature électronique qui l’ont précédée. Mais elle vient témoigner d’autre chose : des enjeux sociétaux posés par la transition numérique, de la manière dont notre identité se forge désormais, de ce que veulent dire aujourd’hui les concepts d’amitié, d’amour, de temps et d’espace : ce sont-là, en fait, des préoccupations qui ont traversé l’histoire de la littérature. De quoi nous aider à résoudre, enfin, le problème de la légitimé des corpus numériques.
+
+>Puisque nos écritures sont nativement numériques, doivent-elles n’être envisagées qu’à cette aune ? Étranges tensions. Pour ma part, je n’aurais fait du code que pour effacer l’impression de la technique.
 
 
 
